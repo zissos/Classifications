@@ -1,5 +1,5 @@
 # Classifications
-It was created to obtain the certification of Machine Learning with Python from [Coursera(IBM)])(https://www.coursera.org/learn/machine-learning-with-python?ranMID=40328&ranEAID=GjbDpcHcs4w&ranSiteID=GjbDpcHcs4w-LBhc1I0_qlaTJkMkwACUkw&siteID=GjbDpcHcs4w-LBhc1I0_qlaTJkMkwACUkw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=GjbDpcHcs4w#syllabus)
+It was created to obtain the certification of Machine Learning with Python from [Coursera(IBM)](https://www.coursera.org/learn/machine-learning-with-python?ranMID=40328&ranEAID=GjbDpcHcs4w&ranSiteID=GjbDpcHcs4w-LBhc1I0_qlaTJkMkwACUkw&siteID=GjbDpcHcs4w-LBhc1I0_qlaTJkMkwACUkw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=GjbDpcHcs4w#syllabus)
 
 ## Methods
   - **KNN**
