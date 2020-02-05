@@ -1,8 +1,8 @@
 # Classifications
-It **was** created to obtain the certification of Machine Learning with Python from Coursera(IBM)
+It was created to obtain the certification of Machine Learning with Python from Coursera(IBM)
 
 ## Methods
-  - KNN 
+  - **KNN** 
 
 ## Results
 | Algorithm          | Jaccard | F1-score | LogLoss |
