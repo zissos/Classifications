@@ -2,7 +2,10 @@
 It was created to obtain the certification of Machine Learning with Python from Coursera(IBM)
 
 ## Methods
-  - **KNN** 
+  - **KNN**
+  - **Decision Tree** 
+  - **Support Vector Machine (SVM)**
+  - **Multinomial Logistic Regression** 
 
 ## Results
 | Algorithm          | Jaccard | F1-score | LogLoss |
